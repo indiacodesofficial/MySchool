@@ -41,6 +41,6 @@
 		<session-timeout>60</session-timeout>
 	</session-config>
   <welcome-file-list>
-    <welcome-file>resources/view/index.html</welcome-file>
+    <welcome-file>main.html</welcome-file>
   </welcome-file-list>
 </web-app>

@@ -2,6 +2,12 @@ package com.codemaker.myskul.objects;
 
 import java.util.Date;
 
+/**
+ * 
+ * @author Rajat Roy
+ *
+ */
+
 public class Classroom {
 
 	private String id;
