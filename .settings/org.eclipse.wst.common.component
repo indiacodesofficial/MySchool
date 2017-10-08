@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="MySkul">
+    <wb-module deploy-name="MySchool">
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/builds/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="java-output-path" value="/MySkul/build/classes"/>
-        <property name="context-root" value="MySkul"/>
+        <property name="java-output-path" value="/MySchool/build/classes"/>
+        <property name="context-root" value="MySchool"/>
     </wb-module>
 </project-modules>
